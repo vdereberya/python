@@ -29,8 +29,3 @@ print("max_var1 // var1 {}".format(max_var1 // var2))
 # 6. Find factorial of the result above
 print("factorial", format(math.factorial(max_var1 // var2)))
 
-# 7. Shorten the code as much as possible
-
-
-
-
